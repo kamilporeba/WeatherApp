@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CityListViewController.h
 //  WeatherApp
 //
 //  Created by Kamil Poręba on 16.10.2016.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CityListViewController : UIViewController
 
 @end
-
